@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>
+First Assignment
+</title>
+<h1>Our First Assignment</h1>
+</head>
+<body>
+<img width = 70,height=70 src ="https://miro.medium.com/v2/resize:fit:2400/2*oLHxFgsg-gumk3U-jGk24w.png">
+<h2>IS 7020 </h2>
+<table>
+<tr>
+<td>Student1</td><td>student2</td>
+</tr>
+<tr>
+<td>C</td><td>C++</
+
+</body>
+
+
+</html>
