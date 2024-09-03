@@ -14,11 +14,8 @@ First Assignment
 <td>Student1</td><td>student2</td>
 </tr>
 <tr>
-<td>C</td><td>C++</
-
+<td>Vivek</td><td>Ravi</td>
+</tr>
 <h2>Vivek-IS7012</h2>
-
 </body>
-
-
 </html>
