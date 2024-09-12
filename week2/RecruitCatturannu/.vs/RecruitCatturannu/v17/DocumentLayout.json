@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week2\\RecruitCatturannu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|c:\\users\\neetu\\source\\repos\\is-7012-nt\\week2\\recruitcatturannu\\pages\\team.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|solutionrelative:pages\\team.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|c:\\users\\neetu\\source\\repos\\is-7012-nt\\week2\\recruitcatturannu\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|c:\\users\\neetu\\source\\repos\\is-7012-nt\\week2\\recruitcatturannu\\pages\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|solutionrelative:pages\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|c:\\users\\neetu\\source\\repos\\is-7012-nt\\week2\\recruitcatturannu\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|c:\\users\\neetu\\source\\repos\\is-7012-nt\\week2\\recruitcatturannu\\pages\\index3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|solutionrelative:pages\\index3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index3.cshtml",
+              "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week2\\RecruitCatturannu\\Pages\\Index3.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index3.cshtml",
+              "ToolTip": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week2\\RecruitCatturannu\\Pages\\Index3.cshtml",
+              "RelativeToolTip": "Pages\\Index3.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T19:18:55.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Apply.cshtml",
+              "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week2\\RecruitCatturannu\\Pages\\Apply.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Apply.cshtml",
+              "ToolTip": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week2\\RecruitCatturannu\\Pages\\Apply.cshtml",
+              "RelativeToolTip": "Pages\\Apply.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T19:09:18.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week2\\RecruitCatturannu\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week2\\RecruitCatturannu\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAswFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T03:46:55.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week2\\RecruitCatturannu\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week2\\RecruitCatturannu\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T03:13:56.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "team.cshtml",
+              "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week2\\RecruitCatturannu\\Pages\\team.cshtml",
+              "RelativeDocumentMoniker": "Pages\\team.cshtml",
+              "ToolTip": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week2\\RecruitCatturannu\\Pages\\team.cshtml",
+              "RelativeToolTip": "Pages\\team.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T03:07:47.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
