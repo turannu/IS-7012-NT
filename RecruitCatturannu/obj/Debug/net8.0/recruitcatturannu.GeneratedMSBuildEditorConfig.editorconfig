@@ -1,0 +1,155 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = recruitcatturannu
+build_property.RootNamespace = recruitcatturannu
+build_property.ProjectDir = C:\Users\neetu\source\repos\IS-7012-NT\week-4\RecruitCatturannu\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\neetu\source\repos\IS-7012-NT\week-4\RecruitCatturannu
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/neetu/source/repos/IS-7012-NT/week-4/RecruitCatturannu/Pages/About_us.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXRfdXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/neetu/source/repos/IS-7012-NT/week-4/RecruitCatturannu/Pages/Candidates/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/neetu/source/repos/IS-7012-NT/week-4/RecruitCatturannu/Pages/Candidates/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/neetu/source/repos/IS-7012-NT/week-4/RecruitCatturannu/Pages/Candidates/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/neetu/source/repos/IS-7012-NT/week-4/RecruitCatturannu/Pages/Candidates/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/neetu/source/repos/IS-7012-NT/week-4/RecruitCatturannu/Pages/Candidates/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/neetu/source/repos/IS-7012-NT/week-4/RecruitCatturannu/Pages/Companies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcGFuaWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/neetu/source/repos/IS-7012-NT/week-4/RecruitCatturannu/Pages/Companies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcGFuaWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/neetu/source/repos/IS-7012-NT/week-4/RecruitCatturannu/Pages/Companies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcGFuaWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/neetu/source/repos/IS-7012-NT/week-4/RecruitCatturannu/Pages/Companies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcGFuaWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/neetu/source/repos/IS-7012-NT/week-4/RecruitCatturannu/Pages/Companies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcGFuaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/neetu/source/repos/IS-7012-NT/week-4/RecruitCatturannu/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/neetu/source/repos/IS-7012-NT/week-4/RecruitCatturannu/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/neetu/source/repos/IS-7012-NT/week-4/RecruitCatturannu/Pages/Index1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/neetu/source/repos/IS-7012-NT/week-4/RecruitCatturannu/Pages/Index2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/neetu/source/repos/IS-7012-NT/week-4/RecruitCatturannu/Pages/Index3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/neetu/source/repos/IS-7012-NT/week-4/RecruitCatturannu/Pages/Industries/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kdXN0cmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/neetu/source/repos/IS-7012-NT/week-4/RecruitCatturannu/Pages/Industries/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kdXN0cmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/neetu/source/repos/IS-7012-NT/week-4/RecruitCatturannu/Pages/Industries/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kdXN0cmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/neetu/source/repos/IS-7012-NT/week-4/RecruitCatturannu/Pages/Industries/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kdXN0cmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/neetu/source/repos/IS-7012-NT/week-4/RecruitCatturannu/Pages/Industries/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kdXN0cmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/neetu/source/repos/IS-7012-NT/week-4/RecruitCatturannu/Pages/JobTitles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iVGl0bGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/neetu/source/repos/IS-7012-NT/week-4/RecruitCatturannu/Pages/JobTitles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iVGl0bGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/neetu/source/repos/IS-7012-NT/week-4/RecruitCatturannu/Pages/JobTitles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iVGl0bGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/neetu/source/repos/IS-7012-NT/week-4/RecruitCatturannu/Pages/JobTitles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iVGl0bGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/neetu/source/repos/IS-7012-NT/week-4/RecruitCatturannu/Pages/JobTitles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iVGl0bGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/neetu/source/repos/IS-7012-NT/week-4/RecruitCatturannu/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/neetu/source/repos/IS-7012-NT/week-4/RecruitCatturannu/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/neetu/source/repos/IS-7012-NT/week-4/RecruitCatturannu/Pages/team.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdGVhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/neetu/source/repos/IS-7012-NT/week-4/RecruitCatturannu/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/neetu/source/repos/IS-7012-NT/week-4/RecruitCatturannu/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/neetu/source/repos/IS-7012-NT/week-4/RecruitCatturannu/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-k37kj3sizd
