@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("recruitcatturannu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9fb459c71fda33bb176f06b52b0ce9c068fb3a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6cdb0210dc304bcf934f8a414088d08dcf2b7c58")]
 [assembly: System.Reflection.AssemblyProductAttribute("recruitcatturannu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("recruitcatturannu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|c:\\users\\neetu\\source\\repos\\is-7012-nt\\week-4\\recruitcatturannu\\pages\\shared\\candidates\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|solutionrelative:pages\\shared\\candidates\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|c:\\users\\neetu\\source\\repos\\is-7012-nt\\week-4\\recruitcatturannu\\pages\\shared\\candidates\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|solutionrelative:pages\\shared\\candidates\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|c:\\users\\neetu\\source\\repos\\is-7012-nt\\week-4\\recruitcatturannu\\pages\\shared\\candidates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|solutionrelative:pages\\shared\\candidates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|c:\\users\\neetu\\source\\repos\\is-7012-nt\\week-4\\recruitcatturannu\\pages\\shared\\candidates\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|solutionrelative:pages\\shared\\candidates\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|c:\\users\\neetu\\source\\repos\\is-7012-nt\\week-4\\recruitcatturannu\\pages\\jobtitles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|solutionrelative:pages\\jobtitles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|c:\\users\\neetu\\source\\repos\\is-7012-nt\\week-4\\recruitcatturannu\\pages\\candidates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|solutionrelative:pages\\candidates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,16 +31,8 @@
       "RelativeMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|solutionrelative:pages\\industries\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|c:\\users\\neetu\\source\\repos\\is-7012-nt\\week-4\\recruitcatturannu\\model\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|solutionrelative:model\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|c:\\users\\neetu\\source\\repos\\is-7012-nt\\week-4\\recruitcatturannu\\pages\\jobtitles\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|solutionrelative:pages\\jobtitles\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|c:\\users\\neetu\\source\\repos\\is-7012-nt\\week-4\\recruitcatturannu\\pages\\jobtitles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|solutionrelative:pages\\jobtitles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|c:\\users\\neetu\\source\\repos\\is-7012-nt\\week-4\\recruitcatturannu\\pages\\candidates\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -75,24 +87,12 @@
       "RelativeMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|solutionrelative:pages\\companies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|c:\\users\\neetu\\source\\repos\\is-7012-nt\\week-4\\recruitcatturannu\\model\\jobtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|solutionrelative:model\\jobtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|c:\\users\\neetu\\source\\repos\\is-7012-nt\\week-4\\recruitcatturannu\\pages\\candidates\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|solutionrelative:pages\\candidates\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|c:\\users\\neetu\\source\\repos\\is-7012-nt\\week-4\\recruitcatturannu\\pages\\candidates\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|solutionrelative:pages\\candidates\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|c:\\users\\neetu\\source\\repos\\is-7012-nt\\week-4\\recruitcatturannu\\model\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|solutionrelative:model\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|c:\\users\\neetu\\source\\repos\\is-7012-nt\\week-4\\recruitcatturannu\\model\\industry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|solutionrelative:model\\industry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C424291-8DAB-4A55-9209-523266FA08EB}|recruitcatturannu.csproj|c:\\users\\neetu\\source\\repos\\is-7012-nt\\week-4\\recruitcatturannu\\pages\\industries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -162,11 +162,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\Pages\\Shared\\Candidates\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\Candidates\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\Pages\\Shared\\Candidates\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\Candidates\\Edit.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAowB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T05:04:16.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\Pages\\Shared\\Candidates\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\Candidates\\Details.cshtml",
+              "ToolTip": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\Pages\\Shared\\Candidates\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\Candidates\\Details.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T05:04:07.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\Pages\\Shared\\Candidates\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\Candidates\\Index.cshtml",
+              "ToolTip": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\Pages\\Shared\\Candidates\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\Candidates\\Index.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T05:03:48.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\Pages\\Shared\\Candidates\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\Candidates\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\Pages\\Shared\\Candidates\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\Candidates\\Delete.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T05:02:53.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\Pages\\JobTitles\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\JobTitles\\Delete.cshtml.cs",
@@ -174,8 +226,7 @@
               "RelativeToolTip": "Pages\\JobTitles\\Delete.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T01:26:02.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T01:26:02.484Z"
             },
             {
               "$type": "Document",
@@ -185,14 +236,14 @@
               "RelativeDocumentMoniker": "Pages\\JobTitles\\Create.cshtml",
               "ToolTip": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\Pages\\JobTitles\\Create.cshtml",
               "RelativeToolTip": "Pages\\JobTitles\\Create.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAABSAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwB8AAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-22T01:26:01.459Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\Pages\\Candidates\\Edit.cshtml",
               "RelativeDocumentMoniker": "Pages\\Candidates\\Edit.cshtml",
@@ -200,12 +251,11 @@
               "RelativeToolTip": "Pages\\Candidates\\Edit.cshtml",
               "ViewState": "AQIAACoAAAAAAAAAAAAAAEYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-22T01:23:05.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T01:23:05.644Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\Pages\\Companies\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Companies\\Index.cshtml",
@@ -217,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\Pages\\JobTitles\\Edit.cshtml",
               "RelativeDocumentMoniker": "Pages\\JobTitles\\Edit.cshtml",
@@ -229,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\Pages\\Industries\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Industries\\Edit.cshtml.cs",
@@ -237,12 +287,11 @@
               "RelativeToolTip": "Pages\\Industries\\Edit.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T01:25:07.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T01:25:07.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "team.cshtml",
               "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\Pages\\team.cshtml",
               "RelativeDocumentMoniker": "Pages\\team.cshtml",
@@ -250,12 +299,11 @@
               "RelativeToolTip": "Pages\\team.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAmwAcAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-22T03:40:34.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T03:40:34.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\Pages\\Industries\\Edit.cshtml",
               "RelativeDocumentMoniker": "Pages\\Industries\\Edit.cshtml",
@@ -267,20 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Candidate.cs",
-              "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\model\\Candidate.cs",
-              "RelativeDocumentMoniker": "model\\Candidate.cs",
-              "ToolTip": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\model\\Candidate.cs",
-              "RelativeToolTip": "model\\Candidate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T01:30:54.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\Pages\\Candidates\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Candidates\\Index.cshtml",
@@ -288,12 +323,11 @@
               "RelativeToolTip": "Pages\\Candidates\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAQwAoAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-22T01:23:06.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T01:23:06.446Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\Pages\\Companies\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Companies\\Create.cshtml.cs",
@@ -305,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Team.cs",
               "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\Pages\\Team.cs",
               "RelativeDocumentMoniker": "Pages\\Team.cs",
@@ -317,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
@@ -329,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\Pages\\Companies\\Create.cshtml",
               "RelativeDocumentMoniker": "Pages\\Companies\\Create.cshtml",
@@ -341,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\Pages\\Industries\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Industries\\Create.cshtml.cs",
@@ -353,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\Pages\\Industries\\Create.cshtml",
               "RelativeDocumentMoniker": "Pages\\Industries\\Create.cshtml",
@@ -365,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\Pages\\Companies\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Companies\\Edit.cshtml.cs",
@@ -377,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\Pages\\Companies\\Edit.cshtml",
               "RelativeDocumentMoniker": "Pages\\Companies\\Edit.cshtml",
@@ -389,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Details.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\Pages\\Candidates\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Candidates\\Details.cshtml.cs",
@@ -401,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\Pages\\Candidates\\Details.cshtml",
               "RelativeDocumentMoniker": "Pages\\Candidates\\Details.cshtml",
@@ -410,42 +444,6 @@
               "ViewState": "AQIAABgAAAAAAAAAAAAAAB8AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-22T01:23:05.952Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Company.cs",
-              "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\model\\Company.cs",
-              "RelativeDocumentMoniker": "model\\Company.cs",
-              "ToolTip": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\model\\Company.cs",
-              "RelativeToolTip": "model\\Company.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAUwDgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T06:57:11.376Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Industry.cs",
-              "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\model\\Industry.cs",
-              "RelativeDocumentMoniker": "model\\Industry.cs",
-              "ToolTip": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\model\\Industry.cs",
-              "RelativeToolTip": "model\\Industry.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAowBMAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T07:00:28.542Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "JobTitle.cs",
-              "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\model\\JobTitle.cs",
-              "RelativeDocumentMoniker": "model\\JobTitle.cs",
-              "ToolTip": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\model\\JobTitle.cs",
-              "RelativeToolTip": "model\\JobTitle.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T15:16:39.719Z"
             },
             {
               "$type": "Document",
