@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\recruitcatturannu.csproj": {}
+    "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\RecruitCatturannu\\recruitcatturannu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\recruitcatturannu.csproj": {
+    "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\RecruitCatturannu\\recruitcatturannu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\recruitcatturannu.csproj",
+        "projectUniqueName": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\RecruitCatturannu\\recruitcatturannu.csproj",
         "projectName": "recruitcatturannu",
-        "projectPath": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\recruitcatturannu.csproj",
+        "projectPath": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\RecruitCatturannu\\recruitcatturannu.csproj",
         "packagesPath": "C:\\Users\\neetu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\week-4\\RecruitCatturannu\\obj\\",
+        "outputPath": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\RecruitCatturannu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\neetu\\AppData\\Roaming\\NuGet\\NuGet.Config",
