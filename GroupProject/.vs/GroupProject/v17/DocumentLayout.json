@@ -1,0 +1,806 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\shoppingcarts\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\shoppingcarts\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\shoppingcarts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\shoppingcarts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\shoppingcarts\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\shoppingcarts\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\shoppingcarts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\shoppingcarts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\shoppingcarts\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\shoppingcarts\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\shoppingcarts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\shoppingcarts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\shoppingcarts\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\shoppingcarts\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\shoppingcarts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\shoppingcarts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\shoppingcarts\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\shoppingcarts\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\shoppingcarts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\shoppingcarts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\data\\groupprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:data\\groupprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\orders\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\orders\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\orders\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\orders\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\orders\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\orders\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\orders\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\orders\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\orders\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\orders\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\items\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\items\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\items\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\items\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\items\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\items\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\items\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\items\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\items\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\items\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\items\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\items\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\items\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\items\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\items\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\items\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\items\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\items\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\customers\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\customers\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\customers\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\customers\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\customers\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\customers\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\customers\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\customers\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\customers\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\customers\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\model\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:model\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\ShoppingCarts\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\ShoppingCarts\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\ShoppingCarts\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\ShoppingCarts\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:56:06.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\ShoppingCarts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\ShoppingCarts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\ShoppingCarts\\Index.cshtml",
+              "RelativeToolTip": "Pages\\ShoppingCarts\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T21:56:06.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\ShoppingCarts\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\ShoppingCarts\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\ShoppingCarts\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\ShoppingCarts\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:56:05.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\ShoppingCarts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\ShoppingCarts\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\ShoppingCarts\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\ShoppingCarts\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T21:56:05.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\ShoppingCarts\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\ShoppingCarts\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\ShoppingCarts\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\ShoppingCarts\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:56:05.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\ShoppingCarts\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\ShoppingCarts\\Details.cshtml",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\ShoppingCarts\\Details.cshtml",
+              "RelativeToolTip": "Pages\\ShoppingCarts\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T21:56:05.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\ShoppingCarts\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\ShoppingCarts\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\ShoppingCarts\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\ShoppingCarts\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:56:05.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\ShoppingCarts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\ShoppingCarts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\ShoppingCarts\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\ShoppingCarts\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T21:56:05.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\ShoppingCarts\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\ShoppingCarts\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\ShoppingCarts\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\ShoppingCarts\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:56:05.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\ShoppingCarts\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\ShoppingCarts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\ShoppingCarts\\Create.cshtml",
+              "RelativeToolTip": "Pages\\ShoppingCarts\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T21:56:05.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Orders\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Orders\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Orders\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Orders\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:55:34.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Orders\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Orders\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T21:55:34.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Orders\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Orders\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Orders\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Orders\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:55:33.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Orders\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Orders\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Orders\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Orders\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T21:55:33.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Orders\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Orders\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Orders\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Orders\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:55:33.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Orders\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Orders\\Details.cshtml",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Orders\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Orders\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T21:55:33.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Orders\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Orders\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Orders\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Orders\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:55:33.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Orders\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Orders\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Orders\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Orders\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T21:55:33.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Orders\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Orders\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Orders\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Orders\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:55:33.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Orders\\Create.cshtml",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Orders\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Orders\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T21:55:33.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GroupProjectContext.cs",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Data\\GroupProjectContext.cs",
+              "RelativeDocumentMoniker": "Data\\GroupProjectContext.cs",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Data\\GroupProjectContext.cs",
+              "RelativeToolTip": "Data\\GroupProjectContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:54:25.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Items\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Items\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Items\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Items\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:55:00.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Items\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Items\\Index.cshtml",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Items\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Items\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T21:55:00.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Items\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Items\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Items\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Items\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:55:00.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Items\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Items\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Items\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Items\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T21:55:00.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Items\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Items\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Items\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Items\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:54:59.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Items\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Items\\Details.cshtml",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Items\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Items\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T21:54:59.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Items\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Items\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Items\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Items\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:54:59.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Items\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Items\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Items\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Items\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T21:54:59.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Items\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Items\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Items\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Items\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:54:59.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Items\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Items\\Create.cshtml",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Items\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Items\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T21:54:59.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Customers\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Customers\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Customers\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Customers\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:54:26.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Customers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Customers\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Customers\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T21:54:26.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Customers\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Customers\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Customers\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Customers\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:54:26.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Customers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Customers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Customers\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Customers\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T21:54:26.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Customers\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Customers\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Customers\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Customers\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:54:26.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Customers\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Customers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Customers\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Customers\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T21:54:26.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Customers\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Customers\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Customers\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Customers\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:54:26.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Customers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Customers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Customers\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Customers\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T21:54:26.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Customers\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Customers\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Customers\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Customers\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:54:26.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Customers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Customers\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Customers\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T21:54:25.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:54:25.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "Model\\Order.cs",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Model\\Order.cs",
+              "RelativeToolTip": "Model\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:42:44.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Model\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Model\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Model\\ShoppingCart.cs",
+              "RelativeToolTip": "Model\\ShoppingCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:42:14.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Model\\Item.cs",
+              "RelativeDocumentMoniker": "Model\\Item.cs",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Model\\Item.cs",
+              "RelativeToolTip": "Model\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:41:55.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "Model\\Customer.cs",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Model\\Customer.cs",
+              "RelativeToolTip": "Model\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:41:35.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
