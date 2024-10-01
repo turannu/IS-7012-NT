@@ -13,6 +13,42 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\wwwroot\\images\\Adobe_20220830_215106-768x561.jpg",
+      "PackagePath": "staticwebassets\\images\\Adobe_20220830_215106-768x561.jpg"
+    },
+    {
+      "Id": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\wwwroot\\images\\Mango.png",
+      "PackagePath": "staticwebassets\\images\\Mango.png"
+    },
+    {
+      "Id": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\wwwroot\\images\\Peach.png",
+      "PackagePath": "staticwebassets\\images\\Peach.png"
+    },
+    {
+      "Id": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\wwwroot\\images\\Strawberry.png",
+      "PackagePath": "staticwebassets\\images\\Strawberry.png"
+    },
+    {
+      "Id": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\wwwroot\\images\\a-group-of-fruit-juices-of-various-shapes-and-sizes_12934548.html",
+      "PackagePath": "staticwebassets\\images\\a-group-of-fruit-juices-of-various-shapes-and-sizes_12934548.html"
+    },
+    {
+      "Id": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\wwwroot\\images\\image1.avif",
+      "PackagePath": "staticwebassets\\images\\image1.avif"
+    },
+    {
+      "Id": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\wwwroot\\images\\mango_juice (1).jpg",
+      "PackagePath": "staticwebassets\\images\\mango_juice (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\wwwroot\\images\\th.jpg",
+      "PackagePath": "staticwebassets\\images\\th.jpg"
+    },
+    {
       "Id": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

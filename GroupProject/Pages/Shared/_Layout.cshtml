@@ -1,33 +1,153 @@
-﻿<!DOCTYPE html>
+﻿﻿
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - GroupProject</title>
+    <title>@ViewData["Title"] - Jumbo Juice</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/GroupProject.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <style>
+
+        .dropbtn {
+            background-color: none;
+            color: black;
+            padding: 16px;
+            border-block-color: black font-size: 20px;
+            border: groove;
+        }
+
+
+
+        .dropdown {
+            position: relative;
+            display: inline-block;
+        }
+
+
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: lightcoral;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+
+
+
+            .dropdown-content a {
+                color: black;
+                padding: 10px 10px;
+                text-decoration: none;
+                display: block;
+            }
+
+                .dropdown-content a:hover {
+                    background-color: lightcoral;
+                }
+
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+
+        .dropdown:hover .dropbtn {
+            background-color: lightcoral;
+            border-block-color: black;
+
+        }
+
+        .footer-links {
+            list-style-type: none;
+            padding: 0;
+        }
+
+            .footer-links li {
+                margin-bottom: 10px;
+            }
+
+            .footer-links a {
+                text-decoration: none;
+                color: black;
+            }
+
+                .footer-links a:hover {
+                    background-color: coral;}
+
+            .footer-links a {
+                text-decoration: none;
+                color: black;
+                display: inline-block; /* Ensure links are inline */
+    </style>
+
+
+
 </head>
-<body>
+<body style="font-family:Cambria; color:black;">
+    <style>
+        h1 {
+            color: brown;
+            font-size: x-large;
+        }
+
+        h2 {
+            color: coral;
+            font-size: xx-large;
+        }
+
+        a:hover {
+            background-color: coral;
+        }
+
+    </style>
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container">
-                <a class="navbar-brand" asp-area="" asp-page="/Index">GroupProject</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                <a class="navbar-brand" asp-area="" asp-page="/Index">Welcome to Jumbo Juice</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Index"> Jumbo Juice Menu </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/About"> About us </a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Location"> History </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Help"> Contact Us </a>
+                        </li>
+
                     </ul>
                 </div>
+
+
+
+                <div class="dropdown">
+                    <button class="dropbtn">Admin</button>
+                    <div class="dropdown-content">
+                        <a class="nav-link text-dark" asp-area="" asp-page="/Items/Index">Items</a>
+                        <a class="nav-link text-dark" asp-area="" asp-page="/Order/Index">Order</a>
+                        <a class="nav-link text-dark" asp-area="" asp-page="/ShoppingCart/Index">Shopping Cart</a>
+                        <a class="nav-link text-dark" asp-area="" asp-page="/Customer/Index">Customer</a>
+                        <a class="nav-link text-dark" asp-area="" asp-page="/Login">Login </a>
+
+                    </div>
+                </div>
+
+
+
             </div>
+
+
+
+
         </nav>
     </header>
     <div class="container">
@@ -36,16 +156,26 @@
         </main>
     </div>
 
+
+
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2024 - GroupProject - <a asp-area="" asp-page="/Privacy">Privacy</a>
+            <p class="footer-links">
+                <a class="nav-link text-dark" asp-area="" asp-page="/Help">Contact Us</a>
+                <a class="nav-link text-dark" asp-area="" asp-page="/About">About us</a>
+                <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
+            </p>
         </div>
     </footer>
+
+
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
 
-    @await RenderSectionAsync("Scripts", required: false)
+
+
+    @RenderSection("Scripts", required: false)
 </body>
 </html>

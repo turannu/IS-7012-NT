@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\AgainTrial\\",
+  "WorkspaceRootPath": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\AgainTrial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9FCEE37-36FB-4D6D-9398-C591EA119E9C}|AgainTrial.csproj|c:\\users\\neetu\\source\\repos\\is-7012-nt\\againtrial\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D9FCEE37-36FB-4D6D-9398-C591EA119E9C}|AgainTrial.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9FCEE37-36FB-4D6D-9398-C591EA119E9C}|AgainTrial.csproj|c:\\users\\neetu\\source\\repos\\is-7012-nt\\againtrial\\migrations\\20240930190131_changes1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9FCEE37-36FB-4D6D-9398-C591EA119E9C}|AgainTrial.csproj|solutionrelative:migrations\\20240930190131_changes1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9FCEE37-36FB-4D6D-9398-C591EA119E9C}|AgainTrial.csproj|c:\\users\\neetu\\source\\repos\\is-7012-nt\\againtrial\\model\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9FCEE37-36FB-4D6D-9398-C591EA119E9C}|AgainTrial.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\againtrial\\model\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9FCEE37-36FB-4D6D-9398-C591EA119E9C}|AgainTrial.csproj|solutionrelative:model\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9FCEE37-36FB-4D6D-9398-C591EA119E9C}|AgainTrial.csproj|c:\\users\\neetu\\source\\repos\\is-7012-nt\\againtrial\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9FCEE37-36FB-4D6D-9398-C591EA119E9C}|AgainTrial.csproj|solutionrelative:model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9FCEE37-36FB-4D6D-9398-C591EA119E9C}|AgainTrial.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\againtrial\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FCEE37-36FB-4D6D-9398-C591EA119E9C}|AgainTrial.csproj|solutionrelative:model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9FCEE37-36FB-4D6D-9398-C591EA119E9C}|AgainTrial.csproj|c:\\users\\neetu\\source\\repos\\is-7012-nt\\againtrial\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9FCEE37-36FB-4D6D-9398-C591EA119E9C}|AgainTrial.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\againtrial\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9FCEE37-36FB-4D6D-9398-C591EA119E9C}|AgainTrial.csproj|solutionrelative:model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9FCEE37-36FB-4D6D-9398-C591EA119E9C}|AgainTrial.csproj|c:\\users\\neetu\\source\\repos\\is-7012-nt\\againtrial\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9FCEE37-36FB-4D6D-9398-C591EA119E9C}|AgainTrial.csproj|solutionrelative:model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9FCEE37-36FB-4D6D-9398-C591EA119E9C}|AgainTrial.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\againtrial\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FCEE37-36FB-4D6D-9398-C591EA119E9C}|AgainTrial.csproj|solutionrelative:model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FCEE37-36FB-4D6D-9398-C591EA119E9C}|AgainTrial.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\againtrial\\migrations\\20240930190131_changes1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FCEE37-36FB-4D6D-9398-C591EA119E9C}|AgainTrial.csproj|solutionrelative:migrations\\20240930190131_changes1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FCEE37-36FB-4D6D-9398-C591EA119E9C}|AgainTrial.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\againtrial\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9FCEE37-36FB-4D6D-9398-C591EA119E9C}|AgainTrial.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,80 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\AgainTrial\\Pages\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\AgainTrial\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\AgainTrial\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\AgainTrial\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABMAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAUAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-30T19:27:44.99Z",
+              "WhenOpened": "2024-09-30T19:27:44.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240930190131_changes1.cs",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\AgainTrial\\Migrations\\20240930190131_changes1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240930190131_changes1.cs",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\AgainTrial\\Migrations\\20240930190131_changes1.cs",
+              "RelativeToolTip": "Migrations\\20240930190131_changes1.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAQwF8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:20:24.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\AgainTrial\\Model\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Model\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\AgainTrial\\Model\\ShoppingCart.cs",
+              "RelativeToolTip": "Model\\ShoppingCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:08:37.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "20240930190131_changes1.cs",
-              "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\AgainTrial\\Migrations\\20240930190131_changes1.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240930190131_changes1.cs",
-              "ToolTip": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\AgainTrial\\Migrations\\20240930190131_changes1.cs",
-              "RelativeToolTip": "Migrations\\20240930190131_changes1.cs",
-              "ViewState": "AQIAAFIAAAAAAAAAAAAQwF8AAAASAAAA",
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\AgainTrial\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "Model\\Order.cs",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\AgainTrial\\Model\\Order.cs",
+              "RelativeToolTip": "Model\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T19:20:24.51Z"
+              "WhenOpened": "2024-09-30T19:08:35.997Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ShoppingCart.cs",
-              "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\AgainTrial\\Model\\ShoppingCart.cs",
-              "RelativeDocumentMoniker": "Model\\ShoppingCart.cs",
-              "ToolTip": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\AgainTrial\\Model\\ShoppingCart.cs",
-              "RelativeToolTip": "Model\\ShoppingCart.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T19:08:37.573Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\AgainTrial\\Model\\Order.cs",
-              "RelativeDocumentMoniker": "Model\\Order.cs",
-              "ToolTip": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\AgainTrial\\Model\\Order.cs",
-              "RelativeToolTip": "Model\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T19:08:35.997Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\AgainTrial\\Model\\Item.cs",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\AgainTrial\\Model\\Item.cs",
               "RelativeDocumentMoniker": "Model\\Item.cs",
-              "ToolTip": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\AgainTrial\\Model\\Item.cs",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\AgainTrial\\Model\\Item.cs",
               "RelativeToolTip": "Model\\Item.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T19:08:33.844Z"
+              "WhenOpened": "2024-09-30T19:08:33.844Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\AgainTrial\\Model\\Customer.cs",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\AgainTrial\\Model\\Customer.cs",
               "RelativeDocumentMoniker": "Model\\Customer.cs",
-              "ToolTip": "C:\\Users\\neetu\\source\\repos\\IS-7012-NT\\AgainTrial\\Model\\Customer.cs",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\AgainTrial\\Model\\Customer.cs",
               "RelativeToolTip": "Model\\Customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T19:08:12.392Z"
+              "WhenOpened": "2024-09-30T19:08:12.392Z",
+              "EditorCaption": ""
             }
           ]
         }
