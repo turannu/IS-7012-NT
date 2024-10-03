@@ -1,31 +1,40 @@
-﻿﻿
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- Meta tags for character set and viewport settings -->
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Title of the webpage -->
     <title>@ViewData["Title"] - Jumbo Juice</title>
+    <!-- Linking Bootstrap CSS for styling -->
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <!-- Linking custom site CSS -->
     <link rel="stylesheet" href="~/css/site.css" />
     <style>
+        body {
+            background-image: url("../images/hello.png");
+            background-size: cover; /* Cover the entire element */
+            background-repeat: no-repeat; /* Do not repeat the image */
+            background-attachment: fixed; /* Fixed background image */
+        }
 
+        /* Styling for the dropdown button */
         .dropbtn {
             background-color: none;
             color: black;
             padding: 16px;
-            border-block-color: black font-size: 20px;
+            font-size: 20px;
             border: groove;
+            border-color: black;
         }
 
-
-
+        /* Container for the dropdown menu */
         .dropdown {
             position: relative;
             display: inline-block;
         }
 
-
-
+        /* Styling for the dropdown content */
         .dropdown-content {
             display: none;
             position: absolute;
@@ -35,8 +44,7 @@
             z-index: 1;
         }
 
-
-
+            /* Styling for the links inside the dropdown */
             .dropdown-content a {
                 color: black;
                 padding: 10px 10px;
@@ -44,91 +52,118 @@
                 display: block;
             }
 
+                /* Hover effect for the links inside the dropdown */
                 .dropdown-content a:hover {
                     background-color: lightcoral;
                 }
 
+        /* Display dropdown content on hover */
         .dropdown:hover .dropdown-content {
             display: block;
         }
 
+        /* Change background color of dropdown button on hover */
         .dropdown:hover .dropbtn {
             background-color: lightcoral;
-            border-block-color: black;
-
+            border-color: black;
         }
 
+        /* Styling for the footer links */
         .footer-links {
             list-style-type: none;
             padding: 0;
+            display: flex; /* Use flexbox */
+            justify-content: space-around; /* Space out the links evenly */
         }
 
+            /* Margin for each footer link item */
             .footer-links li {
                 margin-bottom: 10px;
             }
 
+            /* Styling for the footer links */
             .footer-links a {
                 text-decoration: none;
                 color: black;
             }
 
+                /* Hover effect for the footer links */
                 .footer-links a:hover {
-                    background-color: coral;}
+                    background-color: coral;
+                }
 
-            .footer-links a {
-                text-decoration: none;
-                color: black;
-                display: inline-block; /* Ensure links are inline */
-    </style>
-
-
-
-</head>
-<body style="font-family:Cambria; color:black;">
-    <style>
+        /* Styling for h1 elements */
         h1 {
             color: brown;
             font-size: x-large;
         }
 
+        /* Styling for h2 elements */
         h2 {
             color: coral;
             font-size: xx-large;
         }
 
+        /* Hover effect for all links */
         a:hover {
             background-color: coral;
         }
 
+        /* Styling for the logo */
+        .navbar-brand img {
+            height: 50px; /* Adjust the height as needed */
+            width: auto;
+        }
+
+        /* Styling for the navigation links */
+        .nav-link {
+            color: black;
+            font-size: 1.2em;
+            margin-right: 20px;
+        }
+
+            .nav-link:hover {
+                color: #ff6347; /* Tomato color */
+            }
+
+        /* Align logo and menu items */
+        .navbar-nav {
+            align-items: center;
+        }
     </style>
+</head>
+<body style="font-family:Cambria; color:black;">
     <header>
+        <!-- Navigation bar container -->
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container">
-                <a class="navbar-brand" asp-area="" asp-page="/Index">Welcome to Jumbo Juice</a>
+                <!-- Brand logo -->
+                <a class="navbar-brand" href="/">
+                    <img src="~/images/logo.png" alt="Jumbo Juice Logo">
+                </a>
+                <!-- Toggle button for mobile view -->
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
+                <!-- Navigation links -->
                 <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Index"> Jumbo Juice Menu </a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Index">Jumbo Juice Menu</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/About"> About us </a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/About">About us</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Location"> History </a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Location">History</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Help"> Contact Us </a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Help">Contact Us</a>
                         </li>
-
                     </ul>
                 </div>
-
-
-
+                <!-- Admin dropdown menu -->
                 <div class="dropdown">
                     <button class="dropbtn">Admin</button>
                     <div class="dropdown-content">
@@ -136,46 +171,33 @@
                         <a class="nav-link text-dark" asp-area="" asp-page="/Order/Index">Order</a>
                         <a class="nav-link text-dark" asp-area="" asp-page="/ShoppingCart/Index">Shopping Cart</a>
                         <a class="nav-link text-dark" asp-area="" asp-page="/Customer/Index">Customer</a>
-                        <a class="nav-link text-dark" asp-area="" asp-page="/Login">Login </a>
-
+                        <a class="nav-link text-dark" asp-area="" asp-page="/Login">Login</a>
                     </div>
                 </div>
-
-
-
             </div>
-
-
-
-
         </nav>
     </header>
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
-    </div>
-
-
-
+    <!-- Main content container -->
+    <main role="main" class="container pb-3">
+        @RenderBody()
+    </main>
     <footer class="border-top footer text-muted">
+        <!-- Footer links container -->
         <div class="container">
-            <p class="footer-links">
-                <a class="nav-link text-dark" asp-area="" asp-page="/Help">Contact Us</a>
-                <a class="nav-link text-dark" asp-area="" asp-page="/About">About us</a>
-                <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
-            </p>
+            <ul class="footer-links">
+                <li><a class="nav-link text-dark" asp-area="" asp-page="/Help">Contact Us</a></li>
+                <li><a class="nav-link text-dark" asp-area="" asp-page="/About">About us</a></li>
+                <li><a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a></li>
+            </ul>
         </div>
+    
     </footer>
-
-
-
+    <!-- Linking jQuery and Bootstrap JS -->
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
-
-
-
     @RenderSection("Scripts", required: false)
 </body>
 </html>
+
+

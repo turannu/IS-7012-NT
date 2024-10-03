@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\shoppingcarts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\shoppingcarts\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:pages\\shoppingcarts\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E3ED488-EF3D-4C39-AA91-7C9962FAA84A}|GroupProject.csproj|c:\\users\\neetu\\onedrive\\desktop\\is-7012\\groupproject\\pages\\customers\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -202,34 +202,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml*",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAAFAAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-30T21:59:15.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\ShoppingCarts\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\ShoppingCarts\\Index.cshtml",
-              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\ShoppingCarts\\Index.cshtml",
-              "RelativeToolTip": "Pages\\ShoppingCarts\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-30T21:56:06.011Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 7,
@@ -322,27 +296,65 @@
               "RelativeDocumentMoniker": "Pages\\Orders\\Index.cshtml",
               "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Orders\\Index.cshtml",
               "RelativeToolTip": "Pages\\Orders\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-30T21:55:34.073Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Index.cshtml*",
+              "RelativeToolTip": "Pages\\Index.cshtml*",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAHsAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-30T23:16:03.503Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:54:25.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAMAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T21:59:15.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\ShoppingCarts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\ShoppingCarts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\ShoppingCarts\\Index.cshtml",
+              "RelativeToolTip": "Pages\\ShoppingCarts\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T21:56:06.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Pages\\ShoppingCarts\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\ShoppingCarts\\Index.cshtml.cs",
@@ -723,18 +735,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-30T21:54:25.96Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\neetu\\OneDrive\\Desktop\\IS-7012\\GroupProject\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAwBgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T21:54:25.86Z"
             },
             {
               "$type": "Document",
